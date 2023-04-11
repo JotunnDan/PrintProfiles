@@ -7,7 +7,7 @@ This is mostly just for me to track adjustments and modifications to my profiles
 - Nozzle: 0.4mm
 - Upgraded fan duct from "rcaslis" on thingiverse.com:
 https://www.thingiverse.com/thing:2528132/files
-- .stl for fan duct is uploaded to the Prusa i3 Mk2 branch in case thingiverse link implodes.
+- .stl for fan duct is uploaded to the Prusa i3 Mk2 folderin case thingiverse link implodes.
 
 ### Creality Ender 3
 - Nozzle 0.4mm
@@ -19,4 +19,4 @@ https://www.thingiverse.com/thing:2528132/files
 - Nozzle 0.4mm
 - PEI coated magnetic spring steel bed
 - Upgraded fan ducts from 3Deddy on thingiverse.com: https://www.thingiverse.com/thing:3936815
-- .stl file for fan ducts is uploaded to the FLSUN QQ-S Pro branch in case thingiverse link implodes.
+- .stl file for fan ducts is uploaded to the FLSUN QQ-S Pro folder in case thingiverse link implodes.
